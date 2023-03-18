@@ -6,15 +6,20 @@
 
 AT&T Inc. is an American multinational telecommunications holding company headquartered at Whitacre Tower in Downtown Dallas, Texas. One of the major problems that AT&T users are facing are spam sms messages.
 
-AT&T has been able to manually flag spam messages for a time, but they are looking for a way to detect them automatically in order to protect their users.
+AT&T has been able to manually flag spam messages for a time, but now they are looking for a way to detect them automatically in order to protect their users.
 
 See **References** for more information on the dataset.
 
-The dataset (.csv file) is included in the **data** folder of this project. 
-The notebooks present in this project also use int 
+The dataset (.csv file) is included in the **data** folder. 
 
 ## Goal of the project
 Build a spam detector that can automatically flag spam messages based on the sms' content only.
+
+## Project files
+
+The project includes two notebooks:
+- *att_spam_detector_lstm.ipynb* describes building of a model from scratch using LSTM layers;
+- *att_spam_detector_transfer_learning_bert.ipynb* describes transfer learning using Bert for sequence classification.
 
 ## References
 
