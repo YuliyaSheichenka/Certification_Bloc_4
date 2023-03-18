@@ -4,7 +4,7 @@
 
 ## Video presentation
 
-[Bloc 4: AT&T Spam Detector](xxx)
+[Bloc 4: AT&T Spam Detector](https://share.vidyard.com/watch/aqeAht4MG9BRr3UiodhNh5?)
 
 ## Contact
 
