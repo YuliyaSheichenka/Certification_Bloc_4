@@ -14,10 +14,11 @@ The dataset (.csv file) is included in the **data** folder of this project.
 The notebooks present in this project also use int 
 
 ## Goal of the project
-Buil a spam detector that can automatically flag spam messages based on the sms' content only.
+Build a spam detector that can automatically flag spam messages based on the sms' content only.
 
 ## References
 
 - [Dataset on Kaggle](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset)
 
-- [Classification using Pre-trained Bert Model (Transfer Learning)](https://medium.com/@yashvardhanvs/classification-using-pre-trained-bert-model-transfer-learning-2d50f404ed4c) (Medium article with code examples for using BERT with TensofFlow for supervised text classification) 
+- [Classification using Pre-trained Bert Model (Transfer Learning)](https://medium.com/@yashvardhanvs/classification-using-pre-trained-bert-model-transfer-learning-2d50f404ed4c) (Medium article with code examples for using BERT with TensofFlow for supervised text classification)
+- [Python for NLP: Multi-label Text Classification with Keras](https://stackabuse.com/python-for-nlp-multi-label-text-classification-with-keras/)
